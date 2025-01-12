@@ -1,4 +1,4 @@
-# AVIF2ANY - AVIF Imange Converter
+# AVIF2ANY - AVIF Image Converter
 
 AVIF2ANY - [AVIF to JPG, PNG...](https://avif-to-jpg.top)  
 A modern web application that allows users to convert AVIF to JPG, PNG, JPEG, WebP, GIF, and PDF online for free.
