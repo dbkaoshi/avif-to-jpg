@@ -12,7 +12,7 @@ A modern web application that allows users to convert AVIF to JPG, PNG, JPEG, We
 - Batch Processing
 - Completely Free
 
-## how to use
+## How to use
 1. Open the website https://avif-to-jpg.top
 2. Upload the AVIF image
 3. Choose the format you desired（like JPG, PNG, WebP, and PDF）
